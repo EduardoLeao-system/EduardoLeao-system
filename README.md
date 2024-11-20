@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Systems Analysis and Development</p>
+<p align="left">- Systems Analysis and Development<br><br>-My name is Carlos Eduardo, I'm a programming student, always looking to learn new programming languages.</p>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
 ###
