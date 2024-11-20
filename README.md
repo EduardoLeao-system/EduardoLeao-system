@@ -1,14 +1,8 @@
 <h2 align="left">About Me</h2>
 
-###
-
-<p align="left">- Systems Analysis and Development<br><br>-My name is Carlos Eduardo, I'm a programming student, always looking to learn new programming languages.</p>
-
-###
+<h3 align="center">- Systems Analysis and Development<br><br>-My name is Carlos Eduardo, I'm a programming student, always looking to learn new programming languages.</h3>
 
 <h2 align="left">Techs</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -24,23 +18,15 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
-###
-
 <h2 align="left">Stats</h2>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo1035&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo1035&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo1035&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo1035&radius=15&theme=react&area=true&order=5" height="210" alt="activity-graph graph"  />
 </div>
 
-###
-
 <h2 align="left">Social Media</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/carlos-eduardoleao-9b9a00237/" target="_blank">
@@ -51,10 +37,7 @@
   </a>
 </div>
 
-###
-
-<div align="left">
-  <img height="300" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"  />
+<div align="center">
+  <img height="320" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"  />
 </div>
 
-###
