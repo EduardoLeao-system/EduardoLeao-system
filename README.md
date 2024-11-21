@@ -1,6 +1,6 @@
 <h2 align="left">About Me</h2>
 <h2 align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&width=435&lines=Hello++World!;My+name+is+Carlos+Eduardo." alt="Typing SVG" /a></h2>
-<h3 align="center">- Systems Analysis and Development<br><br>-My name is Carlos Eduardo, I'm a programming student, always looking to learn new programming languages.</h3>
+<h3 align="center">- Student Systems Analysis and Development<br><br>-I'm a programming student, always looking to learn new programming languages.</h3>
 <h2 align="left">Skills</h2>
 <p align="center">Conhecimento em sistemas operacionais Linux, Windows</p>
 <p align="center">Linguagens Atuais: JavaScript, HTML e CSS</p>
