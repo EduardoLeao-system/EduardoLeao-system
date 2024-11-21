@@ -25,8 +25,7 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EduardoLeao-system&theme=dracula" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoLeao-system&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoLeao-system&radius=15&theme=react&area=true&order=5" height="210" alt="activity-graph graph"  />
-</div>
+
 
 <h2 align="left">Social Media</h2>
 
