@@ -1,5 +1,5 @@
 <h2 align="left">About Me</h2>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello++World!;My+name+is+Carlos+Eduardo." alt="Typing SVG" /></a>
 <h3 align="center">- Systems Analysis and Development<br><br>-My name is Carlos Eduardo, I'm a programming student, always looking to learn new programming languages.</h3>
 
 <h2 align="left">Techs</h2>
