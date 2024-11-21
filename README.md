@@ -3,7 +3,7 @@
 <h3 align="center">- Systems Analysis and Development<br><br>-My name is Carlos Eduardo, I'm a programming student, always looking to learn new programming languages.</h3>
 <h2 align="left">Skills</h2>
 <p align="center">Conhecimento em sistemas operacionais Linux, Windows</p>
-<p align="center">Linguagens Atuais: JavaScript, HTMl e CSS</p>
+<p align="center">Linguagens Atuais: JavaScript, HTML e CSS</p>
 <h2 align="left">Techs</h2>
 
 <div align="left">
