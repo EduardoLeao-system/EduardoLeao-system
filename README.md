@@ -1,7 +1,9 @@
 <h2 align="left">About Me</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello++World!;My+name+is+Carlos+Eduardo." alt="Typing SVG" /></a>
+<h2 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello++World!;My+name+is+Carlos+Eduardo." alt="Typing SVG" /></a></h2>
 <h3 align="center">- Systems Analysis and Development<br><br>-My name is Carlos Eduardo, I'm a programming student, always looking to learn new programming languages.</h3>
-
+<h2 align="left">Skills</h2>
+<p align="center">Conhecimento em sistemas operacionais Linux, Windows</p>
+<p align="center">Linguagens Atuais: JavaScript, HTMl e CSS</p>
 <h2 align="left">Techs</h2>
 
 <div align="left">
@@ -38,6 +40,6 @@
 </div>
 
 <div align="center">
-  <img height="320" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"  />
+  <img height="390" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"  />
 </div>
 
