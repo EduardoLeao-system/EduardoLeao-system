@@ -7,16 +7,16 @@
 <h2 align="left">Techs</h2>
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+   <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="20" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo"  />
   <img width="12" />
 </div>
 
@@ -39,6 +39,6 @@
 </div>
 
 <div align="center">
-  <img height="320" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"  />
+  <img height="220" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"  />
 </div>
 
