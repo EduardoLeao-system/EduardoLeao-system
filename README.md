@@ -7,16 +7,16 @@
 <h2 align="left">Techs</h2>
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
+   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="20" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo"  />
-    <img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
 </div>
 
