@@ -3,10 +3,20 @@
 <h3 align="center">- Student Systems Analysis and Development<br><br>-I'm a programming student, always looking to learn new programming languages.</h3>
 <h2 align="left">Skills</h2>
 <p align="center">Conhecimento em sistemas operacionais Linux, Windows</p>
-<p align="center">Linguagens Atuais: JavaScript, HTML e CSS</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo"/>
+<img width="12" />
+</div>
+<p align="center">Linguagens Atuais: JavaScript, C# </p>
 <h2 align="left">Techs</h2>
 
 <div align="left">
+   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+   <img width="12" />
+  <img  src="https://skillicons.dev/icons?i=cs" height="30" alt="c# logo"  />
+  <img width="12" />
    <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
