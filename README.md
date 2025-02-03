@@ -15,8 +15,6 @@
 <div align="left">
    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
    <img width="12" />
-  <img  src="https://skillicons.dev/icons?i=cs" height="30" alt="c# logo"  />
-  <img width="12" />
    <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
