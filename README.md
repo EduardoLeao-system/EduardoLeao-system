@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo"/>
 <img width="12" />
 </div>
-<p align="center">Linguagens Atuais: JavaScript, C# </p>
+<p align="center">Linguagens Atuais: JavaScript. </p>
 <h2 align="left">Techs</h2>
 
 <div align="left">
