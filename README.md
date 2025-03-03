@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
     <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
 </div>
