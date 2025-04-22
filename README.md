@@ -11,6 +11,14 @@
   - I'm a programming student, always looking to learn new programming languages.
 </h3>
 
+<h2 align="left">📚 Currently studying</h2>
+
+<ul>
+  <li>📘 Padrões de Projeto com Java e Spring Boot</li>
+  <li>🔧 Desenvolvimento de APIs com Node.js</li>
+  <li>💡 Práticas de Clean Code e Arquitetura MVC</li>
+</ul>
+
 <h2 align="left">Skills</h2>
 
 <p align="center">Conhecimento em sistemas operacionais Linux, Windows</p>
@@ -80,6 +88,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
+<h2 align="left">📬 Fale Comigo</h2>
+
+<p>Se você quiser trocar ideias, colaborar em algum projeto ou simplesmente bater um papo sobre tecnologia, me chame nas redes sociais ou envie um e-mail:</p>
+
+<p><strong>Email:  carloseduardomeirelesleao@gmail.com</strong></p>
 
 <div align="center">
   <img height="220" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif" />
