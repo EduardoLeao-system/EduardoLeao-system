@@ -10,10 +10,8 @@
 <img width="12" />
 </div>
 <p align="center">Linguagens Atuais: JavaScript. </p>
-<h2 align="left">Techs</h2>
-
-<div align="center">
-     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" height="40" alt="java logo"  />
+<h2 align="center">Techs</h2>
+     <a href= "https://www.java.com/pt-BR/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" height="40" alt="java logo"  />
      <img width="12" />
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" height="40" alt="Bootstrap logo" />
    <img width="12" />
