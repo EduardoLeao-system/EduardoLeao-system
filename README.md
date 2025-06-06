@@ -77,6 +77,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoLeao-system&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EduardoLeao-system/EduardoLeao-system/output/snake.svg" height="130" alt="Snake animation" />
+</div>
+
+
 <h2 align="left">Social Media</h2>
 
 <div align="left">
