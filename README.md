@@ -78,7 +78,6 @@
 </div>
 
 <div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   <img src="https://raw.githubusercontent.com/EduardoLeao-system/EduardoLeao-system/output/snake.svg" alt="Snake animation" />
 
