@@ -78,9 +78,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EduardoLeao-system/EduardoLeao-system/output/snake.svg" height="130" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EduardoLeao-system/EduardoLeao-system/output/snake.svg" alt="Snake animation" />
 </div>
-
 
 <h2 align="left">Social Media</h2>
 
