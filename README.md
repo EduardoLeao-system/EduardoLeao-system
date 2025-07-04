@@ -33,25 +33,25 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <a href="https://www.java.com/pt-BR/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" height="40" alt="Java logo" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" height="40" alt="Bootstrap logo" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET logo" />
   </a>
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Light.svg" height="40" alt="Node.js logo" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   </a>
   <a href="https://spring.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Light.svg" height="40" alt="Spring logo" />
+    <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo" />
   </a>
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Light.svg" height="40" alt="Vue logo" />
+    <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue logo" />
   </a>
    <a href="https://wordpress.com/pt-br/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" height="40" alt="Vue logo" />
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="Wordpress logo" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
