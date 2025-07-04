@@ -50,6 +50,9 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Light.svg" height="40" alt="Vue logo" />
   </a>
+   <a href="https://wordpress.com/pt-br/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" height="40" alt="Vue logo" />
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
   </a>
