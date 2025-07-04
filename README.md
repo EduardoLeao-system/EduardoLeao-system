@@ -50,7 +50,7 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue logo" />
   </a>
-   <a href="https://wordpress.com/pt-br/" target="_blank">
+   <a href="https://wordpress.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="Wordpress logo" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
