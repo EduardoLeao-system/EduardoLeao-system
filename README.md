@@ -35,6 +35,10 @@
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
   </a>
+  
+   <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP logo" />
+     
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
   </a>
