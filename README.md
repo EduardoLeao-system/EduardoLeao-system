@@ -76,7 +76,7 @@
 
 <h2 align="center">Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoLeao-system&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoLeao-system&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=eduardoleao-system&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="130" alt="streak graph" />
