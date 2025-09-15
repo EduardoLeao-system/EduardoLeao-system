@@ -82,14 +82,16 @@
   <img src="https://streak-stats.demolab.com?user=eduardoleao-system&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="130" alt="streak graph" />
 </div>
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoLeao-system/EduardoLeao-system/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoLeao-system/EduardoLeao-system/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EduardoLeao-system/EduardoLeao-system/output/pacman-contribution-graph.svg">
+</picture>
 
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/EduardoLeao-system/EduardoLeao-system/output/snake.svg" alt="Snake animation" />
+---
 
-<br/><br/>
 
-</div>
 
 
 <h2 align="left">Social Media</h2>
